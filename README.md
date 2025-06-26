@@ -24,4 +24,4 @@ HouseHunt is a MERN Stack-based rental app where users can post, browse, and boo
 
 ---
 
-Built with ❤️ by [Geetha]
+Built with ❤️ by [Geetha Pranathi K]
