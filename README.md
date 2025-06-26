@@ -23,7 +23,7 @@ HouseHunt is a MERN Stack-based rental app where users can post, browse, and boo
 - Admin (optional): Dashboard access
 
 ---
-[▶️ Watch Project Demo](https://github.com/GeethaPranathi/HouseHunt-Finding-Your-Perfect-Rental-Home/blob/main/Video%20Demo/project%20demo.mp4?raw=true)
+[▶️ Watch Project Demo](https://github.com/GeethaPranathi/HouseHunt-Finding-Your-Perfect-Rental-Home/tree/main/Video%20Demo/project%20demo.mp4?raw=true)
 
 
 Built with ❤️ by [Geetha Pranathi K]
