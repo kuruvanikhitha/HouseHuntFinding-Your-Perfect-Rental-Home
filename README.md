@@ -72,8 +72,14 @@ Run the app locally and test booking flows, login, and role-based dashboards.
 
 - No push notifications
 
+## 🤝 Contributing
 
+Contributions are welcome!
+Fork the repo and submit a pull request with detailed description.
 
+## 📄 License
 
+This project is licensed under the MIT License.
+📁 Google Drive Backup: View Files
 
 Built with ❤️ by [Geetha Pranathi K]
