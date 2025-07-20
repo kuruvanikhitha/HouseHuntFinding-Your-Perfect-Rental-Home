@@ -49,8 +49,29 @@ HouseHunt is a seamless rental platform designed to connect renters with propert
 4. Start the server:
    ```
    npm start
-##🧪 Testing
+   
+## 🧪 Testing
+
 Run the app locally and test booking flows, login, and role-based dashboards.
+
+## 📌 Future Enhancements
+
+-📍 Map Integration
+
+- 💳 Online Payment Gateway
+
+- 🔔 Notifications
+
+- 📈 Booking Analytics for Admin
+
+## 🐞 Known Issues
+
+No payment flow implemented yet
+
+Booking date validation can be improved
+
+No push notifications
+
 
 
 
