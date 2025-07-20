@@ -1,29 +1,91 @@
-# HouseHunt-Finding-Your-Perfect-Rental-Home
-HouseHunt: Finding Your Perfect Rental Home
-# 🏠 HouseHunt
+# 🏠 HouseHunt – Finding Your Perfect Rental Home
 
-HouseHunt is a MERN Stack-based rental app where users can post, browse, and book rental properties.
+HouseHunt is a seamless rental platform designed to connect renters with property owners efficiently. It offers user-friendly interfaces for Renters, Owners, and Admins with role-based access, secure authentication, and a clean, responsive design.
 
-## 📁 Project Structure
+## 🚀 Features
 
-- `frontend/` — React app (Login/Register/Add Property/My Bookings)
-- `backend/` — Node.js + Express + MongoDB (API endpoints)
+- 👤 Role-Based Access: Renter, Owner, Admin
+- 🏘️ Add and Manage Property Listings
+- 📅 Book Rental Properties
+- 🔍 Filter and Search by Location, Price, and Dates
+- 📄 My Bookings with Cancel Option
+- 📥 Admin Dashboard for Property and Booking Oversight
+- 🌙 Dark Mode Support
+- 📧 Email Confirmation (Optional)
+- 🔐 JWT Authentication with Remember Me
 
-## 🚀 How to Run
+## 🛠️ Tech Stack
 
-1. Clone this repo
-2. Open two terminals:
-   - In `/backend` → `npm install` → `npm run dev`
-   - In `/frontend` → `npm install` → `npm start`
-3. Set `.env` with MongoDB connection string in `/backend`
+- **Frontend**: React.js, Tailwind CSS, Bootstrap, Toastify
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB Atlas
+- **Authentication**: JWT, bcryptjs
+- **Deployment**: Render / Vercel / Netlify / GitHub Pages
 
-## 👤 Roles
-- Renter: Can book homes
-- Owner: Can list properties
-- Admin (optional): Dashboard access
+## 📸 Screenshots
 
----
-[🎬 Watch HouseHunt Project Demo](https://github.com/GeethaPranathi/HouseHunt-Finding-Your-Perfect-Rental-Home/blob/main/Video%20Demo/househunt.mp4?raw=true)
+| Home | Booking | Dashboard |
+|------|---------|-----------|
+| ![Home](screenshots/home.png) | ![Booking](screenshots/booking.png) | ![Dashboard](screenshots/dashboard.png) |
+
+## 🎥 Video Demos
+
+- 🔗 **User Demo**: [Watch househunt.mp4](https://github.com/GeethaPranathi/HouseHunt-Finding-Your-Perfect-Rental-Home/raw/main/Video%20Demo/househunt.mp4?raw=true)
+- 🔗 **Documentation Video**: [Watch Renthouse.mp4](https://github.com/GeethaPranathi/HouseHunt-Finding-Your-Perfect-Rental-Home/raw/main/Video%20doc/Renthouse.mp4?raw=true)
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/GeethaPranathi/HouseHunt-Finding-Your-Perfect-Rental-Home.git
+   cd HouseHunt-Finding-Your-Perfect-Rental-Home
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Set up environment variables in a .env file:
+
+env
+Copy
+Edit
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+Start the server:
+
+bash
+Copy
+Edit
+npm start
+🧪 Testing
+Run the app locally and test booking flows, login, and role-based dashboards.
+
+📌 Future Enhancements
+📍 Map Integration
+
+💳 Online Payment Gateway
+
+🔔 Notifications
+
+📈 Booking Analytics for Admin
+
+🐞 Known Issues
+No payment flow implemented yet
+
+Booking date validation can be improved
+
+No push notifications
+
+🤝 Contributing
+Contributions are welcome!
+Fork the repo and submit a pull request with detailed description.
+
+📄 License
+This project is licensed under the MIT License.
+
+📁 Google Drive Backup: View Files
+
 
 
 
