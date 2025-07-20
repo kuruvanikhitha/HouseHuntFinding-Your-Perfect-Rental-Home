@@ -42,9 +42,15 @@ HouseHunt is a seamless rental platform designed to connect renters with propert
 2. Install dependencies:
    ```
    npm install
-4. Set up environment variables in a .env file:
+3. Set up environment variables in a .env file:
+   ```
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
+4. Start the server:
+   ```
+   npm start
+##🧪 Testing
+Run the app locally and test booking flows, login, and role-based dashboards.
 
 
 
