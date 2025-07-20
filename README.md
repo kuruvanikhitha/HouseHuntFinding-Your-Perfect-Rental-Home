@@ -40,12 +40,11 @@ HouseHunt is a seamless rental platform designed to connect renters with propert
    git clone https://github.com/GeethaPranathi/HouseHunt-Finding-Your-Perfect-Rental-Home.git
    cd HouseHunt-Finding-Your-Perfect-Rental-Home
 2. Install dependencies:
-
-   '''bash
+   ```
    npm install
 4. Set up environment variables in a .env file:
    MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+   JWT_SECRET=your_jwt_secret
 
 
 
