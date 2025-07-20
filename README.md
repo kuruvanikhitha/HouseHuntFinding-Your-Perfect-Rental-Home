@@ -26,7 +26,7 @@ HouseHunt is a seamless rental platform designed to connect renters with propert
 
 | Home | Register | Login |
 |------|---------|-----------|
-| ![Home](<img width="926" height="444" alt="home" src="https://github.com/user-attachments/assets/c5f7d1b3-e00b-47d9-b7ac-1ef619db2a80" />
+| ![Home]("C:\Users\hi\OneDrive\Pictures\Screenshots\home.png"
 ) | ![Register](screenshots/booking.png) | ![Login](screenshots/dashboard.png) |
 
 ## 🎥 Video Demos
