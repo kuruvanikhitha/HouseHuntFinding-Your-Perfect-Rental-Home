@@ -39,52 +39,11 @@ HouseHunt is a seamless rental platform designed to connect renters with propert
    ```bash
    git clone https://github.com/GeethaPranathi/HouseHunt-Finding-Your-Perfect-Rental-Home.git
    cd HouseHunt-Finding-Your-Perfect-Rental-Home
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-Set up environment variables in a .env file:
-
-env
-Copy
-Edit
-MONGO_URI=your_mongodb_connection_string
+2. Install dependencies:
+   npm install
+3. Set up environment variables in a .env file:
+   MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-Start the server:
-
-bash
-Copy
-Edit
-npm start
-🧪 Testing
-Run the app locally and test booking flows, login, and role-based dashboards.
-
-📌 Future Enhancements
-📍 Map Integration
-
-💳 Online Payment Gateway
-
-🔔 Notifications
-
-📈 Booking Analytics for Admin
-
-🐞 Known Issues
-No payment flow implemented yet
-
-Booking date validation can be improved
-
-No push notifications
-
-🤝 Contributing
-Contributions are welcome!
-Fork the repo and submit a pull request with detailed description.
-
-📄 License
-This project is licensed under the MIT License.
-
-📁 Google Drive Backup: View Files
 
 
 
