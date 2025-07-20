@@ -56,7 +56,7 @@ Run the app locally and test booking flows, login, and role-based dashboards.
 
 ## 📌 Future Enhancements
 
--📍 Map Integration
+ - 📍 Map Integration
 
 - 💳 Online Payment Gateway
 
@@ -66,11 +66,11 @@ Run the app locally and test booking flows, login, and role-based dashboards.
 
 ## 🐞 Known Issues
 
-No payment flow implemented yet
+- No payment flow implemented yet
 
-Booking date validation can be improved
+- Booking date validation can be improved
 
-No push notifications
+- No push notifications
 
 
 
